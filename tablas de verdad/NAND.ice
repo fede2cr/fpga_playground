@@ -196,6 +196,21 @@
           }
         },
         {
+          "id": "909d19f5-9acc-4023-aa42-13d9aa92935d",
+          "type": "basic.info",
+          "data": {
+            "info": "NAND\nPuerta ógica NAND\n~ (0 & 0) = 1 (LED 1)\n~ (0 & 1) = 1 (LED 2)\n~ (1 & 0) = 1 (LED 3)\n~ (1 & 1) = 0 (LED 4)"
+          },
+          "position": {
+            "x": 480,
+            "y": 248
+          },
+          "size": {
+            "width": 320,
+            "height": 192
+          }
+        },
+        {
           "id": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {
@@ -363,8 +378,8 @@
     },
     "state": {
       "pan": {
-        "x": 156.4094,
-        "y": 336.1304
+        "x": 138.4094,
+        "y": 159.1304
       },
       "zoom": 0.7272
     }

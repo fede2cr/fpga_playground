@@ -196,6 +196,21 @@
           }
         },
         {
+          "id": "3a60e1df-2bc0-4047-acb9-64f54567b0f6",
+          "type": "basic.info",
+          "data": {
+            "info": "AND\nPuerta lógica AND\n0 & 0 = 0 (LED 1)\n0 & 1 = 0 (LED 2)\n1 & 0 = 0 (LED 3)\n1 & 1 = 1 (LED 4)"
+          },
+          "position": {
+            "x": 472,
+            "y": 264
+          },
+          "size": {
+            "width": 240,
+            "height": 176
+          }
+        },
+        {
           "id": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {

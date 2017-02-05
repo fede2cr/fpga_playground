@@ -196,6 +196,21 @@
           }
         },
         {
+          "id": "26a453be-4fcd-4d92-8533-040c94910ff5",
+          "type": "basic.info",
+          "data": {
+            "info": "XOR\nPuerta lógica XOR\n0 ^ 0 = 0 (LED 1)\n0 ^ 1 = 1 (LED 2)\n1 ^ 0 = 1 (LED 3)\n1 ^ 1 = 0 (LED 4)\n"
+          },
+          "position": {
+            "x": 488,
+            "y": 256
+          },
+          "size": {
+            "width": 256,
+            "height": 176
+          }
+        },
+        {
           "id": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {

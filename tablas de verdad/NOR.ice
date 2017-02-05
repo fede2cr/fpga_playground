@@ -196,6 +196,21 @@
           }
         },
         {
+          "id": "e658c378-8959-4edc-b3bb-117fec24afa3",
+          "type": "basic.info",
+          "data": {
+            "info": "NOR (NOT OR)\nPuerta lógica NOR\n~ (0 | 0) = 1 (LED 1)\n~ (0 | 1) = 0 (LED 2)\n~ (1 | 0) = 0 (LED 3)\n~ (1 | 1) = 0 (LED 4)"
+          },
+          "position": {
+            "x": 456,
+            "y": 256
+          },
+          "size": {
+            "width": 304,
+            "height": 176
+          }
+        },
+        {
           "id": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {

@@ -196,6 +196,21 @@
           }
         },
         {
+          "id": "35df5165-3cb1-424f-9c8f-57c7d3c23787",
+          "type": "basic.info",
+          "data": {
+            "info": "OR\nPuerta lógica OR\n0 | 0 = 0 (LED 1)\n0 | 1 = 1 (LED 2)\n1 | 0 = 1 (LED 3)\n1 | 1 = 1 (LED 4)"
+          },
+          "position": {
+            "x": 472,
+            "y": 272
+          },
+          "size": {
+            "width": 256,
+            "height": 176
+          }
+        },
+        {
           "id": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {
@@ -369,8 +384,8 @@
     },
     "state": {
       "pan": {
-        "x": 354.4095,
-        "y": 413.1304
+        "x": 272.4095,
+        "y": 192.1304
       },
       "zoom": 0.7272
     }
