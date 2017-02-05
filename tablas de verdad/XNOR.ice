@@ -24,10 +24,10 @@
           }
         },
         {
-          "id": "3d16b4f3-7f29-4418-96c4-98fd108cc072",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "id": "6c0e5183-216b-425a-85e2-40125b4841a3",
+          "type": "20a1db0a310fc90e729971eb2f687b93980e728a",
           "position": {
-            "x": 256,
+            "x": 288,
             "y": -128
           },
           "size": {
@@ -98,10 +98,10 @@
           }
         },
         {
-          "id": "6907e66d-47fe-493e-8df1-83f1a1310350",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "id": "fe42caff-861f-499e-8535-f03525d49a97",
+          "type": "20a1db0a310fc90e729971eb2f687b93980e728a",
           "position": {
-            "x": 256,
+            "x": 288,
             "y": 32
           },
           "size": {
@@ -172,11 +172,11 @@
           }
         },
         {
-          "id": "b6efad0d-8b7f-4e38-bee0-99c6bc06b231",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "id": "d6c5816b-bf4d-4297-96c0-5e56af56ecae",
+          "type": "20a1db0a310fc90e729971eb2f687b93980e728a",
           "position": {
-            "x": 256,
-            "y": 200
+            "x": 288,
+            "y": 192
           },
           "size": {
             "width": 96,
@@ -208,11 +208,11 @@
           }
         },
         {
-          "id": "fa978a33-0004-40d1-8b6f-ca9c1a314169",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "id": "47a489a1-a6fb-46e4-a7e4-1235e165996a",
+          "type": "20a1db0a310fc90e729971eb2f687b93980e728a",
           "position": {
-            "x": 248,
-            "y": 360
+            "x": 280,
+            "y": 344
           },
           "size": {
             "width": 96,
@@ -239,7 +239,7 @@
             "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
           },
           "target": {
-            "block": "3d16b4f3-7f29-4418-96c4-98fd108cc072",
+            "block": "6c0e5183-216b-425a-85e2-40125b4841a3",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
@@ -249,73 +249,13 @@
             "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
           },
           "target": {
-            "block": "3d16b4f3-7f29-4418-96c4-98fd108cc072",
+            "block": "6c0e5183-216b-425a-85e2-40125b4841a3",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
         {
           "source": {
-            "block": "d168ee04-8d95-4ab1-ab64-f376649f4479",
-            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
-          },
-          "target": {
-            "block": "6907e66d-47fe-493e-8df1-83f1a1310350",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "f06a92fc-c2e7-44c1-ad41-80361fe7ea15",
-            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
-          },
-          "target": {
-            "block": "6907e66d-47fe-493e-8df1-83f1a1310350",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
-            "block": "aeee8cbb-0e45-4235-b77f-e2f6631615fb",
-            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
-          },
-          "target": {
-            "block": "b6efad0d-8b7f-4e38-bee0-99c6bc06b231",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "5bd99016-8f91-4a66-97b0-9687baf48ffa",
-            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
-          },
-          "target": {
-            "block": "b6efad0d-8b7f-4e38-bee0-99c6bc06b231",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
-            "block": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
-            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
-          },
-          "target": {
-            "block": "fa978a33-0004-40d1-8b6f-ca9c1a314169",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "a66ef3bb-824f-4d33-83b2-59497ab9aa18",
-            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
-          },
-          "target": {
-            "block": "fa978a33-0004-40d1-8b6f-ca9c1a314169",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          }
-        },
-        {
-          "source": {
-            "block": "3d16b4f3-7f29-4418-96c4-98fd108cc072",
+            "block": "6c0e5183-216b-425a-85e2-40125b4841a3",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -325,7 +265,67 @@
         },
         {
           "source": {
-            "block": "6907e66d-47fe-493e-8df1-83f1a1310350",
+            "block": "d168ee04-8d95-4ab1-ab64-f376649f4479",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "fe42caff-861f-499e-8535-f03525d49a97",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "f06a92fc-c2e7-44c1-ad41-80361fe7ea15",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "fe42caff-861f-499e-8535-f03525d49a97",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "aeee8cbb-0e45-4235-b77f-e2f6631615fb",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "d6c5816b-bf4d-4297-96c0-5e56af56ecae",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "5bd99016-8f91-4a66-97b0-9687baf48ffa",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "d6c5816b-bf4d-4297-96c0-5e56af56ecae",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "47a489a1-a6fb-46e4-a7e4-1235e165996a",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "a66ef3bb-824f-4d33-83b2-59497ab9aa18",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "47a489a1-a6fb-46e4-a7e4-1235e165996a",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "fe42caff-861f-499e-8535-f03525d49a97",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -334,14 +334,14 @@
           },
           "vertices": [
             {
-              "x": 384,
-              "y": -8
+              "x": 416,
+              "y": -32
             }
           ]
         },
         {
           "source": {
-            "block": "b6efad0d-8b7f-4e38-bee0-99c6bc06b231",
+            "block": "d6c5816b-bf4d-4297-96c0-5e56af56ecae",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -351,7 +351,7 @@
         },
         {
           "source": {
-            "block": "fa978a33-0004-40d1-8b6f-ca9c1a314169",
+            "block": "47a489a1-a6fb-46e4-a7e4-1235e165996a",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -363,7 +363,7 @@
     },
     "state": {
       "pan": {
-        "x": 195.816,
+        "x": 196.816,
         "y": 142.7886
       },
       "zoom": 0.7875
@@ -435,13 +435,13 @@
         }
       }
     },
-    "11a6f454705778e2f00adba4e5b28dcd9411bc8f": {
+    "20a1db0a310fc90e729971eb2f687b93980e728a": {
       "package": {
-        "name": "AND",
+        "name": "XNOR",
         "version": "1.0.0",
-        "description": "AND logic gate",
-        "author": "Jesús Arroyo",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cpath%20d=%22M-252%20409.9h26v2h-26zM-252%20429.9h27v2h-27z%22/%3E%3Cpath%20d=%22M-227%20400.9v39.9h20.4c11.3%200%2020-9%2020-20s-8.7-20-20-20H-227zm2.9%202.8h17.6c9.8%200%2016.7%207.6%2016.7%2017.1%200%209.5-7.4%2017.1-17.1%2017.1H-224c-.1.1-.1-34.2-.1-34.2z%22/%3E%3Cpath%20d=%22M-187.911%20419.9H-162v2h-25.911z%22/%3E%3C/svg%3E"
+        "description": "XNOR logic gate",
+        "author": "Carlos Diaz",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cpath%20d=%22M-252%20409.9h26v2h-26zM-252%20429.9h27v2h-27zM-177.3%20419.9h15.3v2h-15.3z%22/%3E%3Cpath%20d=%22M-181.4%20426.2c-2.9%200-5.3-2.4-5.3-5.3s2.4-5.3%205.3-5.3%205.3%202.4%205.3%205.3-2.4%205.3-5.3%205.3zm0-8.6c-1.8%200-3.3%201.5-3.3%203.3%200%201.8%201.5%203.3%203.3%203.3s3.3-1.5%203.3-3.3c0-1.8-1.5-3.3-3.3-3.3z%22/%3E%3Cpath%20d=%22M-185.3%20422.6l-.3-2.1.4-1.6c-10.3-17.8-26-18-30.6-18H-233l2%202.4s5.7%207%205.7%2017.6c0%2010.6-5.7%2017.6-5.7%2017.6l-2%202.4h17.2c2.4%200%207.7%200%2013.6-2.4%205.7-2.3%2012-6.9%2017-15.7l-.1-.2zm-18.2%2013.1c-5.4%202.2-9.8%202.2-12.3%202.2H-227c1.9-3.1%204.8-9%204.8-17s-2.9-13.9-4.8-17h11.3c4.7%200%2018.3-.1%2028%2017-4.8%208.4-10.6%2012.7-15.8%2014.8z%22/%3E%3Cpath%20d=%22M-238.3%20440.9h3.6c2.3-3.7%206.5-11.6%206.5-19.8%200-8.5-4.4-16.5-6.8-20.2h-3.6c1.4%202%207.4%2011%207.4%2020.2%200%208.9-5.7%2017.7-7.1%2019.8z%22/%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -450,7 +450,7 @@
               "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
               "type": "basic.code",
               "data": {
-                "code": "// AND logic gate\n\nassign c = a & b;",
+                "code": "// XNOR logic gate\n\nassign c = ~(a ^ b);",
                 "params": [],
                 "ports": {
                   "in": [
