@@ -18,3 +18,5 @@ Usando el editor gráfico de Icesudio vamos a crear circuitos que utilizan por e
 Esta puerta recibe dos entradas, y tiene una salida, la cual va a ser verdadera, solamente en el caso de que ambas entradas sean 1. Por ello vemos iluminada D4 como se observa en los diagramas.
 
 ![AND en ICestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/AND.png "AND en ICestudio")
+
+![AND en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-AND.JPG "AND en iCEstick")
