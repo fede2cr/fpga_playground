@@ -2,6 +2,8 @@
 ### Lección sobre puertas lógicas y tablas de verdad
 ### Dificultad: Principiante
 *Para esta lección no necesitas soldar, protoboard, ni escribir código*
+*Demostraciones basadas en iCEstick, pero fácilmente adaptable a otras FPGAs*
+
 
 Como las FPGAs con útiles para procesamiento digital, debemos aprender a transformar unos y ceros, y esto se realiza por medio de las puertas lógicas.
 
