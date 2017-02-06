@@ -17,6 +17,38 @@ Usando el editor gráfico de Icesudio vamos a crear circuitos que utilizan por e
 ### AND
 Esta puerta recibe dos entradas, y tiene una salida, la cual va a ser verdadera, solamente en el caso de que ambas entradas sean 1. Por ello vemos iluminada D4 como se observa en los diagramas.
 
-![AND en ICestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/AND.png "AND en ICestudio")
+![AND en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/AND.png "AND en Icestudio")
 
 ![AND en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-AND.JPG "AND en iCEstick")
+
+### OR
+Para OR también recibimos dos entradas con una salida, la cual va a ser verdadera, cuando cualquiera de las entradas sea verdadera.
+
+![OR en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/OR.png "OR en Icestudio")
+![OR en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-OR.JPG "OR en iCEstick")
+
+### NOT
+NOT se trata sencillamente de una negación. Si la entrada es 1, se convierte a 0. Si es 0, se transforma en 1.
+
+![NOT en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/NOT.png "NOT en Icestudio")
+![NOT en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-NOT.JPG "NOT en iCEstick")
+
+### NAND y NOR
+Ambas, son una combinación de una puerta lógica (AND u OR respectivamente) y una negación. Por ello van a ser el opuesto de la salida de AND u OR (respectivamente).
+
+![NAND en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/NAND.png "NAND en Icestudio")
+![NAND en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-NAND.JPG "NAND en iCEstick")
+![NOR en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/NOR.png "NOR en Icestudio")
+![NOR en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-NOR.JPG "NOR en iCEstick")
+
+### XOR
+Es una forma especial de OR, llamado un OR eXclusivo. Es la base de casi todos los algoritmos de criptografía, así como de algoritmos como RAID-5. A diferencia de OR, solo va a ser verdadero cuando solo una de las partes sea verdadera.
+
+![XOR en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/XOR.png "XOR en Icestudio")
+![XOR en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-XOR.JPG "XOR en iCEstick")
+
+### XNOR
+Por último tenemos XNOR, quién es realmente una secuencia de puertas lógicas. Se comporta como el caso especial de OR llamado XOR, pero adicionalmente tiene una negación, por lo cual se comporta de forma contraria a XOR. Este también puede ser construido usando XOR y agregando NOT.
+
+![XNOR en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/XNOR.png "XNOR en Icestudio")
+![XNOR en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-XNOR.JPG "XNOR en iCEstick")
