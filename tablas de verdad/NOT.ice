@@ -139,15 +139,15 @@
           "id": "0e9e43db-36d0-46e9-a59f-5ce63e08921c",
           "type": "basic.info",
           "data": {
-            "info": "NOT\nNegación NOT\n  0 = 0 (LED 1)\n~ 0 = 1 (LED 2)\n  1 = 1 (LED 3)\n~ 1 = 1 (LED 4)"
+            "info": "NOT\nNegación NOT\n  0 = 0 (LED 1)\n~ 0 = 1 (LED 2)\n  1 = 1 (LED 3)\n~ 1 = 0 (LED 4)"
           },
           "position": {
             "x": 480,
             "y": 248
           },
           "size": {
-            "width": 224,
-            "height": 176
+            "width": 240,
+            "height": 192
           }
         },
         {
@@ -246,8 +246,8 @@
     },
     "state": {
       "pan": {
-        "x": 156.4094,
-        "y": 336.1304
+        "x": 140.4094,
+        "y": 170.1304
       },
       "zoom": 0.7272
     }

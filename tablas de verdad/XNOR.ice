@@ -196,6 +196,21 @@
           }
         },
         {
+          "id": "d50c989c-9ee5-44eb-b58a-dce88d3baaaa",
+          "type": "basic.info",
+          "data": {
+            "info": "XNOR\nPuerta lógica XNOR\n~ (0 ^ 0) = 1 (LED 1)\n~ (0 ^ 1) = 0 (LED 2)\n~ (1 ^ 0) = 0 (LED 3)\n~ (1 ^ 1) = 1 (LED 4)"
+          },
+          "position": {
+            "x": 456,
+            "y": 256
+          },
+          "size": {
+            "width": 272,
+            "height": 160
+          }
+        },
+        {
           "id": "580c3de7-b3b5-4c37-a5f2-87acd493375a",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {
@@ -363,7 +378,7 @@
     },
     "state": {
       "pan": {
-        "x": 196.816,
+        "x": 197.816,
         "y": 142.7886
       },
       "zoom": 0.7875
