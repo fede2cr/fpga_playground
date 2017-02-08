@@ -4,6 +4,7 @@
 *Para esta lección no necesitas soldar, protoboard, ni escribir código*
 *Demostraciones basadas en iCEstick, pero fácilmente adaptable a otras FPGAs*
 
+**For english guide [click here](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/README.en.md)**
 
 Como las FPGAs con útiles para procesamiento digital, debemos aprender a transformar unos y ceros, y esto se realiza por medio de las puertas lógicas.
 
@@ -36,7 +37,7 @@ NOT se trata sencillamente de una negación. Si la entrada es 1, se convierte a 
 ![NOT en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-NOT.JPG "NOT en iCEstick")
 
 ### NAND y NOR
-Ambas, son una combinación de una puerta lógica (AND u OR respectivamente) y una negación. Por ello van a ser el opuesto de la salida de AND u OR (respectivamente).
+Ambas, son una combinación de una puerta lógica (AND u OR respectivamente) y una negación. Por ello van a ser el opuesto de la salida de AND u OR (respectivamente). También pueden ser construidas usando AND u OR, y luego agregando una negación NOT.
 
 ![NAND en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/NAND.png "NAND en Icestudio")
 ![NAND en iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/tablas%20de%20verdad/doc/im%C3%A1genes/fpga-NAND.JPG "NAND en iCEstick")
