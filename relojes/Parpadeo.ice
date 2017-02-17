@@ -12,6 +12,21 @@
     "graph": {
       "blocks": [
         {
+          "id": "9e4155e5-dbae-487e-8538-e79eabbae44b",
+          "type": "basic.info",
+          "data": {
+            "info": "12mhz"
+          },
+          "position": {
+            "x": 1224,
+            "y": -80
+          },
+          "size": {
+            "width": 112,
+            "height": 64
+          }
+        },
+        {
           "id": "d1693f8c-e782-4401-b5b4-214e0aceadc2",
           "type": "basic.output",
           "data": {
@@ -26,8 +41,8 @@
             "virtual": false
           },
           "position": {
-            "x": 920,
-            "y": 112
+            "x": 1224,
+            "y": 8
           }
         },
         {
@@ -51,11 +66,11 @@
           },
           "position": {
             "x": 376,
-            "y": 216
+            "y": 168
           },
           "size": {
-            "width": 384,
-            "height": 256
+            "width": 688,
+            "height": 368
           }
         },
         {
@@ -65,12 +80,12 @@
             "info": "Reloj FPGA\n12 mhz"
           },
           "position": {
-            "x": 80,
-            "y": 232
+            "x": 0,
+            "y": 224
           },
           "size": {
-            "width": 144,
-            "height": 64
+            "width": 176,
+            "height": 80
           }
         },
         {
@@ -80,8 +95,8 @@
             "info": "1/4 s"
           },
           "position": {
-            "x": 800,
-            "y": 256
+            "x": 1224,
+            "y": 232
           },
           "size": {
             "width": 96,
@@ -104,8 +119,8 @@
             "clock": false
           },
           "position": {
-            "x": 80,
-            "y": 312
+            "x": 0,
+            "y": 320
           }
         },
         {
@@ -123,8 +138,8 @@
             "virtual": false
           },
           "position": {
-            "x": 920,
-            "y": 312
+            "x": 1224,
+            "y": 320
           }
         },
         {
@@ -134,12 +149,12 @@
             "info": "Conectar el LED\nD5 directo al\nreloj parece\nprendido siempre.\nLa frecuencia de\n12 mhz es muy\nrápida para el\nojo humano."
           },
           "position": {
-            "x": 72,
+            "x": -8,
             "y": 408
           },
           "size": {
-            "width": 224,
-            "height": 224
+            "width": 288,
+            "height": 288
           }
         },
         {
@@ -162,12 +177,12 @@
             }
           },
           "position": {
-            "x": 376,
-            "y": 488
+            "x": 384,
+            "y": 568
           },
           "size": {
-            "width": 384,
-            "height": 256
+            "width": 688,
+            "height": 384
           }
         },
         {
@@ -177,12 +192,27 @@
             "info": "1/2 s"
           },
           "position": {
-            "x": 800,
-            "y": 528
+            "x": 1240,
+            "y": 640
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "c8c7b5bf-51d5-49fd-a543-c9071768d239",
+          "type": "basic.info",
+          "data": {
+            "info": "Cada bloque\ncuenta varios\nmillones de\nciclos, para\nlograr una señal\nde reloj de\nfrecuencias\nmás útiles para\nparpadear un LED"
+          },
+          "position": {
+            "x": -8,
+            "y": 720
+          },
+          "size": {
+            "width": 288,
+            "height": 304
           }
         },
         {
@@ -200,23 +230,8 @@
             "virtual": false
           },
           "position": {
-            "x": 912,
-            "y": 584
-          }
-        },
-        {
-          "id": "c8c7b5bf-51d5-49fd-a543-c9071768d239",
-          "type": "basic.info",
-          "data": {
-            "info": "Cada bloque\ncuenta varios\nmillones de\nciclos, para\nlograr una señal\nde reloj de\nfrecuencias\nmás útiles para\nparpadear un LED"
-          },
-          "position": {
-            "x": 72,
-            "y": 712
-          },
-          "size": {
-            "width": 224,
-            "height": 240
+            "x": 1240,
+            "y": 728
           }
         },
         {
@@ -239,12 +254,12 @@
             }
           },
           "position": {
-            "x": 376,
-            "y": 760
+            "x": 384,
+            "y": 984
           },
           "size": {
-            "width": 384,
-            "height": 256
+            "width": 688,
+            "height": 368
           }
         },
         {
@@ -254,8 +269,8 @@
             "info": "1 s"
           },
           "position": {
-            "x": 800,
-            "y": 800
+            "x": 1248,
+            "y": 1056
           },
           "size": {
             "width": 96,
@@ -277,8 +292,8 @@
             "virtual": false
           },
           "position": {
-            "x": 904,
-            "y": 856
+            "x": 1248,
+            "y": 1136
           }
         },
         {
@@ -301,12 +316,12 @@
             }
           },
           "position": {
-            "x": 376,
-            "y": 1032
+            "x": 384,
+            "y": 1392
           },
           "size": {
-            "width": 384,
-            "height": 256
+            "width": 688,
+            "height": 384
           }
         },
         {
@@ -316,8 +331,8 @@
             "info": "2 s"
           },
           "position": {
-            "x": 800,
-            "y": 1072
+            "x": 1256,
+            "y": 1472
           },
           "size": {
             "width": 96,
@@ -339,8 +354,8 @@
             "virtual": false
           },
           "position": {
-            "x": 904,
-            "y": 1128
+            "x": 1256,
+            "y": 1552
           }
         }
       ],
@@ -377,7 +392,7 @@
           "vertices": [
             {
               "x": 304,
-              "y": 432
+              "y": 728
             }
           ]
         },
@@ -403,7 +418,7 @@
           "vertices": [
             {
               "x": 304,
-              "y": 392
+              "y": 688
             }
           ]
         },
@@ -419,7 +434,7 @@
           "vertices": [
             {
               "x": 304,
-              "y": 360
+              "y": 656
             }
           ]
         },
@@ -463,8 +478,8 @@
     },
     "state": {
       "pan": {
-        "x": 513.3712,
-        "y": -67.9263
+        "x": 423.4129,
+        "y": -495.5133
       },
       "zoom": 0.7875
     }
