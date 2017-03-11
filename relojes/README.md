@@ -8,5 +8,5 @@
 
 ![Código en Icestudio](https://github.com/fede2cr/fpga_playground/blob/master/relojes/doc/im%C3%A1genes/relojes.png "Código en Icestudio")
 
-![GIF de iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/relojes/doc/im%C3%A1genes/fpga-relojes.JPG "GIF en iCEstick")
+![GIF de iCEstick](https://github.com/fede2cr/fpga_playground/blob/master/relojes/doc/im%C3%A1genes/fpga-relojes.gif "GIF en iCEstick")
 
